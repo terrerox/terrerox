@@ -9,24 +9,21 @@
 - ✔️2021 Goals: strive day by day
 - 🥅Fun fact: I looooove baseball ⚾	
 <br /><br />		
-
-<img alt="Terrerox's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=terrerox&show_icons=true&theme=light" />	
-<img alt="Terrerox's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrerox&layout=compact&theme=light" />	
-<br />	
-<br />	
-<details>	
-  <summary>📥 Contact me</summary>	
-
+### 📥 Let's talk!
 [<img align="left" alt="my contact | ws" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]	
 
 [<img align="left" alt="my contact | tg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]	
 
 [<img align="left" alt="SoftDevs | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]	
-
 <br />	
 <br />	
-
+<details>	
+  <summary>⚡ GitHub Stats</summary>	
+<img alt="Terrerox's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=terrerox&show_icons=true&theme=light" />	
+<img alt="Terrerox's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrerox&layout=compact&theme=light" />	
 </details>	
+<br />	
+<br />		
 
 **Chill Here** 	
 <br/>	
