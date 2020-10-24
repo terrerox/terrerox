@@ -8,7 +8,8 @@
 - 🚧 I'm currently learning ASP.NetCore and Vue.js
 - ✔️2021 Goals: strive day by day
 - 🥅Fun fact: I looooove baseball ⚾	
-<br /><br />		
+<br /><br />	
+
 <details>	
   <summary>⚡ GitHub Stats</summary>	
 <img alt="Terrerox's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=terrerox&show_icons=true&theme=light" />	
@@ -16,6 +17,7 @@
 </details>	
 <br />	
 <br />	
+
 ### Let's talk!
 [<img align="left" alt="terrerox | ws" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]	
 
