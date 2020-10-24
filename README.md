@@ -16,10 +16,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-<details>
 <img alt="Terrerox's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=terrerox&show_icons=true&theme=light" />
 <img alt="Terrerox's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrerox&layout=compact&theme=light" />
-</details>
 <br />
 <br />
 <details>
