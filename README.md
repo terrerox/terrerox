@@ -32,7 +32,6 @@
 
 [<img align="left" alt="terrerox | tg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]	
 
-[<img align="left" alt="terrerox | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />	
 <br />	
 
@@ -42,7 +41,5 @@
 
 
 [whatsapp]: https://api.whatsapp.com/send/?phone=18299833753&text=i+got+u+from+github&app_absent=0
-
-[linkedin]: https://www.linkedin.com/in/francis-terrero-4247241b5/
 
 [telegram]: https://t.me/terreroxx
