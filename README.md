@@ -11,34 +11,16 @@
 - 🤍 Thigs that i love: Try new technology & to botting.
 <br /><br />
 **SuperPowers:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <details>
-  <summary>:zap: Perfomance :zap:</summary>
-
-  <img alt="Terrerox's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=terrerox&show_icons=true&theme=radical" />
-  <img alt="Terrerox's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrerox&layout=compact&theme=radical" />
-<br />
-<br />
+<img alt="Terrerox's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=terrerox&show_icons=true&theme=light" />
+<img alt="Terrerox's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrerox&layout=compact&theme=light" />
 </details>
 <br />
-<details>
-  <summary>⛩️ Let's talk together ⛩️ (spanish)</summary>
-
-  [<img align="left" alt="SoftDevs | YouTube click a distancia p1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p1]Software Devs: A un click de distancia p1.<br>
-  [<img align="left" alt="SoftDevs | YouTube click a distancia p2" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p2]Software Devs: A un click de distancia p2.<br>
-  [<img align="left" alt="SoftDevs | YouTube click a distancia p3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p3]Software Devs: A un click de distancia p3.
-<br />
-<br />
-
-</details>
 <br />
 <details>
   <summary>📥 Contact me</summary>
