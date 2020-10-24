@@ -1,6 +1,6 @@
-## You there, i'm here. Do not lean too far, you may fall.- [Zero](https://www.github.com/Seventty)
+## “What we know is a drop, what we don't know is an ocean.” - Isaac Newton
+## What's going on there, I'm terrerox.- [Trxe](https://www.github.com/terrerox)
 
-![Website](https://img.shields.io/website?up_message=Software%20Developers&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCmJN2QqO9E9uYZue5zMlniQ)
 
 ### About me.
 
