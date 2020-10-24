@@ -1,21 +1,14 @@
-## “What we know is a drop, what we don't know is an ocean.” - Isaac Newton	
+### “What we know is a drop, what we don't know is an ocean.” - Isaac Newton	
 ## What's going on there, I'm terrerox.- [Trxe](https://www.github.com/terrerox)	
 
 
 
 ### About me.	
 
-- 👑 Administrator of [Software Developers][softdevsws]	
-- ✔️ I'm speed lover (Vim) ya know what i mean?	
-- 🚧 developing high technology, but in secret.	
-- 👁️‍🗨️ 2021 Goals: The first: Survive. The 2th: still coding.	
-- 🤍 Thigs that i love: Try new technology & to botting.	
-<br /><br />	
-**SuperPowers:**	
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>	
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>	
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>	
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>	
+- 🚧 I'm currently learning ASP.NetCore and Vue.js
+- ✔️2021 Goals: strive day by day
+- 🥅Fun fact: I looooove baseball ⚾	
+<br /><br />		
 
 <img alt="Terrerox's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=terrerox&show_icons=true&theme=light" />	
 <img alt="Terrerox's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrerox&layout=compact&theme=light" />	
