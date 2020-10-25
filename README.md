@@ -3,7 +3,7 @@
 
 
 
-### About me.	
+### About me:	
 
 - 🚧 I'm currently learning ASP.NetCore and Vue.js
 - ✔️2021 Goals: strive day by day!
