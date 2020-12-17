@@ -4,7 +4,7 @@
 
 ### About me:	
 
-- 🚧 I'm currently learning ASP.NetCore and Vue.js
+- 🚧 I'm currently learning everything
 - ✔️2021 Goals: strive day by day!
 - ⚡Fun fact: I looooove baseball ⚾	
 <br /><br />	
