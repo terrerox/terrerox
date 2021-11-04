@@ -21,7 +21,6 @@
 
 <details>	
   <summary>⚡Stats</summary>	
-<img alt="Terrerox's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=terrerox&show_icons=true&theme=dark" />	
 <img alt="Terrerox's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrerox&layout=compact&theme=dark" />	
 </details>	
 <br />	
