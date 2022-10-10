@@ -5,7 +5,7 @@
 ### About me:	
 
 - 🚧 I'm currently learning everything
-- ✔️2022 Goals: strive day by day!
+- ✔️2023 Goals: strive day by day!
 - ⚡Fun fact: I looooove baseball ⚾	
 <br /><br />	
 
