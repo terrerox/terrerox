@@ -31,7 +31,7 @@
 
 **Hold on, just chill with this song** 	
 <br/>	
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Terrerox Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3irm7e)	
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Terrerox Spotify Playing" width="350" />](https://open.spotify.com/playlist/1OdURZ7M6lJLlxHFc0qgMe?si=37e273c484a8411b)
 
 
 [whatsapp]: https://api.whatsapp.com/send/?phone=18299833753&text=i+got+u+from+github&app_absent=0
